@@ -63,3 +63,7 @@ Created At,Address1,Address2,City,Company,Country,Country Code,Province,Province
 Created At,Address1,Address2,City,Company,Country,Country Code,Province,Province Code,Zip,Email,First Name,Last Name,Note,Total Orders,Phone,Tags,Tax Exempt,Total Spent,Customer ID
 2020-09-30T15:34:08-03:00,,,,,Chile,CL,Santiago,RM,,juanperez@gmx.us,juan,perez,,0,56991030488,,False,0.0,4091907375268
 2020-10-05T17:08:03-03:00,,,,sudaustral,,,,,,tiberiocesar@roma.com,Tiberio,Cesar,importante,0,56991030489,romano,False,0.0,4116464402596
+Created At,Address1,Address2,City,Company,Country,Country Code,Province,Province Code,Zip,Email,First Name,Last Name,Note,Total Orders,Phone,Tags,Tax Exempt,Total Spent,Customer ID
+2020-09-30T15:34:08-03:00,,,,,Chile,CL,Santiago,RM,,juanperez@gmx.us,juan,perez,,0,56991030488,,False,0.0,4091907375268
+2020-10-05T17:08:03-03:00,,,,sudaustral,,,,,,tiberiocesar@roma.com,Tiberio,Cesar,importante,0,56991030489,romano,False,0.0,4116464402596
+2020-10-05T17:45:09-03:00,,,,,,,,,,juliocesar@roma.com,Julio,Cesar,,0,56991039876,,False,0.0,4116537213092
