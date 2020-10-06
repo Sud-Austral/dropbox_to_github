@@ -1,3 +1,3 @@
 # dropbox_to_github
 
-![](hadoop.png)
+![](drop_to_git.png)
