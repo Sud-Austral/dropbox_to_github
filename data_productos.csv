@@ -1,12 +1,5 @@
-Product Type,Tags,Title,Variant Barcode,Variant Compare At Price,Variant Fulfillment Service,Variant Grams,Variant ID,Variant Image ID,Variant Image Src,Variant Inventory Management,Variant Inventory Policy,Variant Inventory Quantity,Variant Price,Variant SKU,Variant Title,Variant Weight,Variant Weight Unit,Vendor
-,"genero, mujeres, violencia",Mapa de Violencia de Género: Femicidios en Chile,,,manual,0,36699845755034,,,shopify,deny,89,0,1-13101,Santiago,0.0,kg,DATA INTELLIGENCE
-,"genero, mujeres, violencia",Mapa de Violencia de Género: Femicidios en Chile,,,manual,0,36699845787802,,,shopify,deny,91,0,1-8101,Concepción,0.0,kg,DATA INTELLIGENCE
-,"genero, mujeres, violencia",Mapa de Violencia de Género: Femicidios en Chile,,,manual,0,36699845820570,,,shopify,deny,93,0,1-6101,Rancagua,0.0,kg,DATA INTELLIGENCE
-,"genero, mujeres, violencia",Mapa de Violencia de Género: Femicidios en Chile,,,manual,0,36699845853338,,,shopify,deny,92,0,1-5101,Valparaíso,0.0,kg,DATA INTELLIGENCE
-,"genero, mujeres, violencia",Mapa de Violencia de Género: Femicidios en Chile,,,manual,0,36707043442842,,,shopify,deny,94,0,1-7101,Talca,0.0,kg,DATA INTELLIGENCE
-,"genero, mujeres, violencia",Mapa de Violencia de Género: Femicidios en Chile,,,manual,0,36707050127514,,,shopify,deny,92,0,1-4101,La Serena,0.0,kg,DATA INTELLIGENCE
-,"genero, mujeres, violencia",Mapa de Violencia de Género: Femicidios en Chile,,,manual,0,36707063759002,,,shopify,deny,3,0,1-9101,Temuco,0.0,kg,DATA INTELLIGENCE
-,"genero, mujeres, violencia",Mapa de Violencia de Género: Femicidios en Chile,,,manual,0,36707076309146,,,shopify,deny,9,0,1-10101,Puerto Montt,0.0,kg,DATA INTELLIGENCE
-,,Monitoreo de incendios forestales en Chile (2016-2020),,,manual,0,36447048794266,,,shopify,deny,16,10000,,Default Title,0.0,kg,DATA INTELLIGENCE
-,,airplane,,,manual,0,36706873344154,,,shopify,deny,1,0,https://prueba.dataintelligence-group.com/data-riesgos,Default Title,0.0,kg,DATA INTELLIGENCE
-,,david lynch,,,manual,0,36707148660890,,,shopify,deny,0,0,,Default Title,0.0,kg,DATA INTELLIGENCE
+Product Type,Tags,Title,Variant Barcode,Variant Compare At Price,Variant Fulfillment Service,Variant Grams,Variant ID,Variant Image ID,Variant Image Src,Variant Inventory Management,Variant Inventory Policy,Variant Inventory Quantity,Variant Price,Variant SKU,Variant Title,Variant Weight,Variant Weight Unit,Vendor,Product ID
+,,una cajita,,,manual,0,36449176518820,,,,deny,-2,10.0,,Default Title,0.0,kg,dataintelligence,5747348570276
+,,una bici vieja,,,manual,0,36515807821988,,,,deny,-4,0.0,,Default Title,0.0,kg,dataintelligence,5760588873892
+,,zepellin,,,manual,0,36516053942436,,,,deny,0,0.0,,Default Title,0.0,kg,dataintelligence,5760643465380
+,,avion,,,manual,0,36519077904548,,,,deny,0,0.0,,Default Title,0.0,kg,dataintelligence,5761233944740
