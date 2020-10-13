@@ -1,5 +1,6 @@
-Product Type,Tags,Title,Variant Barcode,Variant Compare At Price,Variant Fulfillment Service,Variant Grams,Variant ID,Variant Image ID,Variant Image Src,Variant Inventory Management,Variant Inventory Policy,Variant Inventory Quantity,Variant Price,Variant SKU,Variant Title,Variant Weight,Variant Weight Unit,Vendor,Product ID
-,,una cajita,,,manual,0,36449176518820,,,,deny,-2,10.0,,Default Title,0.0,kg,dataintelligence,5747348570276
-,,una bici vieja,,,manual,0,36515807821988,,,,deny,-4,0.0,,Default Title,0.0,kg,dataintelligence,5760588873892
-,,zepellin,,,manual,0,36516053942436,,,,deny,0,0.0,,Default Title,0.0,kg,dataintelligence,5760643465380
-,,avion,,,manual,0,36519077904548,,,,deny,0,0.0,,Default Title,0.0,kg,dataintelligence,5761233944740
+Created At,Address1,Address2,City,Company,Country,Country Code,Province,Province Code,Zip,Email,First Name,Last Name,Note,Total Orders,Phone,Tags,Tax Exempt,Total Spent
+2020-09-29T12:23:00-03:00,Boldos 2382,22,Santiago ,,Chile,CL,Santiago,RM,81520000.0,macarenaherreragonzalez@gmail.com,Macarena,Herrera,,0,,,False,0.0
+2020-10-10T21:31:49-03:00,,,,,,,,,,patricio.emanuelli@sud-austral.cl,,,,0,,"password page, prospect",False,0.0
+2020-10-10T23:17:33-03:00,Colon 7000,D105,Santiago,,Chile,CL,Santiago,RM,7500000.0,astridsofiaholmgren@gmail.com,Astrid sofia,Holmgren Holmgren,,1,,"password page, prospect",False,0.0
+2020-10-12T13:28:30-03:00,colonia el higo detras de la posta de la policia,,siguatepeque,,Honduras,HN,,,0.0,clentebanks0@gmail.com,clent wilder,Ebanks,,24,,"password page, prospect",False,0.0
+2020-10-13T14:21:22-03:00,,,,,,,,,,,nestor,makno,,0,,,False,0.0
