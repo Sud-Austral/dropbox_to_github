@@ -1,5 +1,14 @@
-Created At,Address1,Address2,City,Company,Country,Country Code,Province,Province Code,Zip,Email,First Name,Last Name,Note,Total Orders,Phone,Tags,Tax Exempt,Total Spent
-2020-09-29T12:23:00-03:00,Boldos 2382,22,Santiago ,,Chile,CL,Santiago,RM,81520000.0,macarenaherreragonzalez@gmail.com,Macarena,Herrera,,0,,,False,0.0
-2020-10-10T21:31:49-03:00,,,,,,,,,,patricio.emanuelli@sud-austral.cl,,,,0,,"password page, prospect",False,0.0
-2020-10-10T23:17:33-03:00,Colon 7000,D105,Santiago,,Chile,CL,Santiago,RM,7500000.0,astridsofiaholmgren@gmail.com,Astrid sofia,Holmgren Holmgren,,1,,"password page, prospect",False,0.0
-2020-10-12T13:28:30-03:00,sigua,,sigua,,Honduras,HN,,,12111.0,clentebanks0@gmail.com,clent wilder,Ebanks,,22,,"password page, prospect",False,0.0
+Created At,Address1,Address2,City,Company,Country,Country Code,Province,Province Code,Zip,Email,First Name,Last Name,Note,Total Orders,Phone,Tags,Tax Exempt,Total Spent,Customer ID
+2020-10-06T16:26:20-03:00,,,,,,,,,,,juan,perez,,0,,,False,0.0,4120548311204
+2020-10-06T16:38:15-03:00,,,,,,,,,,,maria,palma,,0,,,False,0.0,4120576098468
+2020-10-06T17:08:44-03:00,,,,,,,,,,,miguel,rojas,,0,,,False,0.0,4120639799460
+2020-10-06T17:25:28-03:00,,,,,,,,,,,pablo,lagos,,1,,,False,0.0,4120670765220
+2020-10-06T17:59:23-03:00,,,,,,,,,,,david,cronenberg,,1,,,False,10.0,4120783323300
+2020-10-06T20:24:57-03:00,,,,,,,,,,,jjj,jjj,,0,,,False,0.0,4121005850788
+2020-10-06T21:30:26-03:00,,,,,,,,,,,juan,sardina,,0,,,False,0.0,4121100026020
+2020-10-06T21:52:39-03:00,,,,,,,,,,,pedro,jimenez,,0,,,False,0.0,4121133220004
+2020-10-06T23:14:50-03:00,,,,,,,,,,,p,p,,0,,,False,0.0,4121362366628
+2020-10-06T23:17:09-03:00,,,,,,,,,,,p,rober,,0,,,False,0.0,4121365872804
+2020-10-06T23:43:57-03:00,,,,,,,,,,,mariska,hartigay,,0,,,False,0.0,4121408897188
+2020-10-07T17:43:24-03:00,,,,,,,,,,,toulouse,lautrec,,0,,,False,0.0,4124628025508
+2020-10-07T17:46:39-03:00,,,,,,,,,,,pablo,picasso,,0,,,False,0.0,4124636774564
