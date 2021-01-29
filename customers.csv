@@ -1,7 +1,7 @@
 Created At,Address1,Address2,City,Company,Country,Country Code,Province,Province Code,Zip,Email,First Name,Last Name,Note,Total Orders,Phone,Tags,Tax Exempt,Total Spent
 2020-09-29T12:23:00-03:00,Boldos 2382,22,Santiago ,,Chile,CL,Santiago,RM,81520000.0,macarenaherreragonzalez@gmail.com,Macarena,Herrera,,0,,,False,0.0
 2020-10-10T21:31:49-03:00,,,,,,,,,,patricio.emanuelli@sud-austral.cl,,,,0,,"password page, prospect",False,0.0
-2020-10-10T23:17:33-03:00,Avenida Cristobal Colon 7000 dpto D105 D105,,Las Condes,,Chile,CL,Santiago,RM,,astridsofiaholmgren@gmail.com,Astrid sofia,Holmgren Holmgren,,5,,"password page, prospect",False,0.0
+2020-10-10T23:17:33-03:00,avenida colón 7000,Depto D105,Elige una opción…,,Chile,CL,Santiago,RM,7550000.0,astridsofiaholmgren@gmail.com,Astrid sofia,Holmgren Holmgren,,7,,"password page, prospect",False,0.0
 2020-10-12T13:28:30-03:00,colonia el higo detras de la posta de la policia,,siguatepeque,,Honduras,HN,,,0.0,clentebanks0@gmail.com,Clent,Ebanks,,222,,"Honduras, password page, prospect",False,0.0
 2020-10-13T14:21:22-03:00,,,,,,,,,,,nestor,makno,,0,,,False,0.0
 2020-10-13T15:10:51-03:00,,,,,,,,,,,lev,preobazezki,,0,,,False,0.0
@@ -26,3 +26,7 @@ Created At,Address1,Address2,City,Company,Country,Country Code,Province,Province
 2021-01-27T19:03:56-03:00,santa isabel,903,Santiago,,Chile,CL,Santiago,RM,,mvcmacia@gmail.com,María Victoria,Macia,,1,,,False,0.0
 2021-01-28T12:57:12-03:00,,,Siguatepeque,Sud,Honduras,HN,,,,ianmeza29@gmail.com,Ian,Meza,,0,,,False,0.0
 2021-01-28T15:06:31-03:00,Calle Santa Julia 240,Dep 36,Ñuñoa,,Chile,CL,Santiago,RM,7760129.0,thomasdcrt@gmail.com,Thomas,Ducrot,,1,,,False,0.0
+2021-01-28T20:35:06-03:00,Santiago,,,Test,,,,,,hectorflores329@gmail.com,Hector,Flores,,0,,,False,0.0
+2021-01-28T20:55:24-03:00,,Comayagua,Comayagua,None,Honduras,HN,,,1018.0,juanf@gmail.com,Juan,Fernández,,0,,,False,0.0
+2021-01-29T08:54:27-03:00,8 norte 930,,Viña del Mar,,Chile,CL,Valparaíso,VS,2520722.0,gfaf2012@me.com,Gustavo,Arancibia,,1,,,False,0.0
+2021-01-29T09:22:48-03:00,8 norte 930,depto 701,Viña del Mar,,Chile,CL,Valparaíso,VS,2520722.0,gfarancibiaf@gmail.com,Gustavo,Arancibia,,1,,,False,0.0
